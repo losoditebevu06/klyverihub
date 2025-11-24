@@ -1205,11 +1205,9 @@ document.write(unescape('%3C%73%63%72%69%70%74%3E%0A%28%66%75%6E%63%74%69%6F%6E%
         document.addEventListener('DOMContentLoaded', createScrollToTop);
     </script>
 
-<a href="/" alt="stats counter free" target="_blank" >
-<img  src="https://sstatic1.histats.com/0.gif?4977134&101" alt="stats counter free" border="0">
-    
 </body>
 </html>
+
 
 
 
